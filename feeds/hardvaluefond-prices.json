@@ -6252,175 +6252,183 @@
       "$oid": "577cf4ec4c6cc94a9526292b"
     },
     "Datum": "03.03.2026",
-    "Preis": 161.559,
-    "Performance": 70.89680121858339
+    "Preis": 156.7,
+    "Performance": 65.75696031141575
   },
   {
     "_id": {
       "$oid": "835de50e89252d9bf21f4570"
     },
     "Datum": "04.03.2026",
-    "Preis": 160.651,
-    "Performance": 69.93632055513245
+    "Preis": 158.15,
+    "Performance": 67.2907675382923
   },
   {
     "_id": {
       "$oid": "a948cb498680bc0b8f07adb1"
     },
     "Datum": "05.03.2026",
-    "Preis": 158.491,
-    "Performance": 67.65147668613017
+    "Preis": 155.86,
+    "Performance": 64.86840991791489
   },
   {
     "_id": {
       "$oid": "45a913666123a6085b4328e6"
     },
     "Datum": "06.03.2026",
-    "Preis": 156.558,
-    "Performance": 65.6067529829906
+    "Preis": 155.68,
+    "Performance": 64.67800626216467
   },
   {
     "_id": {
       "$oid": "9d19dc05647a88a8abff5d35"
     },
     "Datum": "09.03.2026",
-    "Preis": 160.244,
-    "Performance": 69.5057967335195
+    "Preis": 153.19,
+    "Performance": 62.04408902428704
   },
   {
     "_id": {
       "$oid": "50482c56a2830fd81d235b99"
     },
     "Datum": "10.03.2026",
-    "Preis": 159.547,
-    "Performance": 68.76851146653127
+    "Preis": 158.23,
+    "Performance": 67.37539138529236
   },
   {
     "_id": {
       "$oid": "57d5f13fc66b5c0f3ba7040e"
     },
     "Datum": "11.03.2026",
-    "Preis": 160.003,
-    "Performance": 69.25086739443174
+    "Preis": 157.71,
+    "Performance": 66.82533637979184
   },
   {
     "_id": {
       "$oid": "c2c74a206148e5080037bd5a"
     },
     "Datum": "12.03.2026",
-    "Preis": 157.982,
-    "Performance": 67.11305745959211
+    "Preis": 156.75,
+    "Performance": 65.80985021579082
   },
   {
     "_id": {
       "$oid": "e7d3576d1bea47733958c91f"
     },
     "Datum": "13.03.2026",
-    "Preis": 157.75,
-    "Performance": 66.86764830329186
+    "Preis": 156.28,
+    "Performance": 65.31268511466531
   },
   {
     "_id": {
       "$oid": "68dab8a70831c0a2b07485ec"
     },
     "Datum": "16.03.2026",
-    "Preis": 159.296,
-    "Performance": 68.50300414656849
+    "Preis": 155.79,
+    "Performance": 64.79436405178978
   },
   {
     "_id": {
       "$oid": "e73311030c5fd30e848fb9c9"
     },
     "Datum": "17.03.2026",
-    "Preis": 158.951,
-    "Performance": 68.13806380638063
+    "Preis": 156.75,
+    "Performance": 65.80985021579082
   },
   {
     "_id": {
       "$oid": "0c7362b00947fb1f673b07b4"
     },
     "Datum": "18.03.2026",
-    "Preis": 155.398,
-    "Performance": 64.37970720148938
+    "Preis": 155.11,
+    "Performance": 64.07506135228908
   },
   {
     "_id": {
       "$oid": "323d53fe03768d1c8fe0acc3"
     },
     "Datum": "19.03.2026",
-    "Preis": 151.781,
-    "Performance": 60.55365151899805
+    "Preis": 150.15,
+    "Performance": 58.82838283828383
   },
   {
     "_id": {
       "$oid": "5f7162cafe2a000c340c2637"
     },
     "Datum": "20.03.2026",
-    "Preis": 149.743,
-    "Performance": 58.39785901667089
+    "Preis": 147.13,
+    "Performance": 55.63383261403063
   },
   {
     "_id": {
       "$oid": "4f472c9fbb00f72bf5282c66"
     },
     "Datum": "23.03.2026",
-    "Preis": 152.867,
-    "Performance": 61.70242024202419
+    "Preis": 144.63,
+    "Performance": 52.98933739527798
   },
   {
     "_id": {
       "$oid": "180454b26485def2e496710d"
     },
     "Datum": "24.03.2026",
-    "Preis": 153.853,
-    "Performance": 62.74540915630025
+    "Preis": 149.82,
+    "Performance": 58.47930946940847
   },
   {
     "_id": {
       "$oid": "3afe27b38e2eab34a826919a"
     },
     "Datum": "25.03.2026",
-    "Preis": 154.435,
-    "Performance": 63.36104764322587
+    "Preis": 153.68,
+    "Performance": 62.56241008716257
   },
   {
     "_id": {
       "$oid": "870e0161df4c23ccc7334cd0"
     },
     "Datum": "26.03.2026",
-    "Preis": 153.595,
-    "Performance": 62.47249724972497
+    "Preis": 150.85,
+    "Performance": 59.568841499534564
   },
   {
     "_id": {
       "$oid": "07630dcc750f8e4da67110c6"
     },
     "Datum": "27.03.2026",
-    "Preis": 152.19,
-    "Performance": 60.98629093678598
+    "Preis": 149.73,
+    "Performance": 58.38410764153337
   },
   {
     "_id": {
       "$oid": "8c0ab5cdfddb76034d028a9e"
     },
     "Datum": "30.03.2026",
-    "Preis": 151.251,
-    "Performance": 59.9930185326225
+    "Preis": 150.02,
+    "Performance": 58.690869086908705
   },
   {
     "_id": {
       "$oid": "27e2b211ea08ffb6fe7ac8aa"
     },
     "Datum": "31.03.2026",
-    "Preis": 153.925,
-    "Performance": 62.82157061860033
+    "Preis": 151.02,
+    "Performance": 59.74866717440975
   },
   {
     "_id": {
       "$oid": "c93d2acb27b67297e372f616"
     },
     "Datum": "01.04.2026",
-    "Preis": 155.319,
-    "Performance": 64.29614115257678
+    "Preis": 154.07,
+    "Performance": 62.97495134128796
+  },
+  {
+    "_id": {
+      "$oid": "7be0dc738dbbb08c9adb46e4"
+    },
+    "Datum": "02.04.2026",
+    "Preis": 153,
+    "Performance": 61.843107387661846
   }
 ]
